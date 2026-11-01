@@ -1,0 +1,3 @@
+#blood group
+
+print("o+")
